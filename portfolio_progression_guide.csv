@@ -1,0 +1,6 @@
+Level,Difficulty,Core Technologies,Key Features,Visual Effects,Estimated Time,Prerequisites
+Basic,1,"HTML5, CSS3, Basic JavaScript","Static layout, Basic navigation, Contact form","Basic styling, Static images",1-2 days,Basic HTML/CSS knowledge
+Intermediate,2,"CSS Grid, Flexbox, ES6+ JavaScript","Responsive design, Smooth scrolling, Form validation","Transitions, Basic animations",3-5 days,JavaScript fundamentals
+Advanced,3,"Canvas API, CSS Animations, GSAP","CSS animations, Hover effects, Parallax scrolling","CSS keyframes, Transform effects",1-2 weeks,"Intermediate CSS/JS, Animation concepts"
+Expert,4,"Three.js, WebGL, Advanced CSS","3D transforms, Particle systems, Glassmorphism","Custom cursor, Scroll animations, Particle backgrounds",2-3 weeks,"Advanced JavaScript, Graphics basics"
+Master,5,"Real-time Graphics, Optimization","WebGL effects, Interactive animations, Performance optimization","Real-time particles, 3D models, Advanced shaders",3-4 weeks,"WebGL knowledge, Performance optimization"
